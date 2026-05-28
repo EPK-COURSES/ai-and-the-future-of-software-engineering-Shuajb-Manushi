@@ -85,3 +85,21 @@ Indicates that developers believe that AI allows them to work more quickly. AI w
 Yet, be cautious when interpreting productivity. Writing code that runs faster is not synonymous to having better software. Software engineering is also requirements analysis, system design, testing, debugging, code review, and so on, and communicating with people.
 
 If AI increases a developer‘s coding productivity but the team continues to lag behind on testing and review then the project becomes more difficult to maintain. More code almost always means more bugs, more review time, and more integration issues. Hence, AI productivity really hinges on the quality of the team engineering process.
+
+## Risks and Limitations Found in Reports
+
+The statistics equally suggest that AI has its constraints. For instance, the trust issue of Stack Overflow is one such. Developers integrated AI, but can‘t yet completely rely on its correctness. [1]
+
+The DORA 2025 report also defines AI as a force multiplier. This means that strong teams will use AI to get stronger but AI could be destructive to weak teams. In particular, if a team established strong testing, transparent workflows, quick feedback and have solid version control, then AI could simply supercharge it. Conversely, if a team had poor testing, undefined ownership as well as slow review cycles, then AI would just exacerbate chaos and instability. [9]
+
+This is a critical point. AI is not a magic pill that solves bad software engineering practices. It cannot be used as an improvement factor: it is most effective when you add some amount of AI to a healthy engineering environment. In the absence of good testing, review, documentation and communication, AI-generated output creates noise!
+
+There are also privacy and security concerns. For example, developers using an AI tool may inadvertently share confidential information if they are not familiar with the company‘s policies. Developers may also end up deploying unsafe or faulty code if they blindly trust AI-generated code.
+
+## What These Statistics Mean
+
+Statistics are very clear. AI adoption is accelerating rapidly, however trust and quality are significant barriers to adoption. Stack Overflow demonstrate that numerous developers use AI but do not trust it. GitHub demonstrates that AI-related development is accelerating quickly McKinsey demonstrates that organizations are adopting AI at scale but the learning journey to this scale is long and arduous DORA demonstrates that AI can increase productivity, but only where the engineering system is healthy.
+
+What I take away from this is that AI will likely change the profession of software engineering, but not eradicate it. Developers that blindly follow AI-generated results will have trouble, those that utilize AI as a tool and verify generated code will be a rare skill.
+
+In the age of AI, software engineers might do less coding of simple and repeating code, and do more reading solutions, designing systems, testing behavior and risk management, and talking to users or teammates.
