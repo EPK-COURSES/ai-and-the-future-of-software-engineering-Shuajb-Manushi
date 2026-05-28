@@ -75,3 +75,13 @@ This indicates that AI adoption extends far beyond the field of software enginee
 However, as McKinsey points out, “In many organizations, AI remains in experimentation or pilot stages”. Many organizations are leveraging AI today, but their implementations are not yet ingrained into stable and mature workflows that can scale up.
 
 For software engineering, this can be both an opportunity and an uncertainty. Developers may work in teams where tools, processes and expectations change rapidly. They may need to adapt to AI coding assistants, AI documentation tools, AI testing tools and AI-supported project workflows.
+
+## Productivity Improvements
+
+A large number of surveys point to developers feeling AI increases productivity. In DORA’s 2025 report, they said that 90% of respondents work with AI, and over 80% say it has increased their productivity. [9]
+
+Indicates that developers believe that AI allows them to work more quickly. AI will take away drudgery, allow to generate a first draft, bridge the gap in understanding at least some code, get over the hump.
+
+Yet, be cautious when interpreting productivity. Writing code that runs faster is not synonymous to having better software. Software engineering is also requirements analysis, system design, testing, debugging, code review, and so on, and communicating with people.
+
+If AI increases a developer‘s coding productivity but the team continues to lag behind on testing and review then the project becomes more difficult to maintain. More code almost always means more bugs, more review time, and more integration issues. Hence, AI productivity really hinges on the quality of the team engineering process.
