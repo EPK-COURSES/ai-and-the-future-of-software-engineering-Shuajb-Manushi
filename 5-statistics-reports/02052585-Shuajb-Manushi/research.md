@@ -1,5 +1,6 @@
-AI Statistics and Industry Reports
-Introduction
+## AI Statistics and Industry Reports
+
+## Introduction
 
 Artificial Intelligence is becoming one of the most important changes in modern software engineering. Developers are no longer using only programming languages, frameworks, and traditional tools. Many now use AI tools for coding, debugging, documentation, testing support, code explanation, and learning new technologies. Because of this, developer communities and companies have started publishing surveys, statistics, and industry reports about how AI is changing software development.
 
