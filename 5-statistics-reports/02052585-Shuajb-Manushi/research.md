@@ -103,3 +103,11 @@ Statistics are very clear. AI adoption is accelerating rapidly, however trust an
 What I take away from this is that AI will likely change the profession of software engineering, but not eradicate it. Developers that blindly follow AI-generated results will have trouble, those that utilize AI as a tool and verify generated code will be a rare skill.
 
 In the age of AI, software engineers might do less coding of simple and repeating code, and do more reading solutions, designing systems, testing behavior and risk management, and talking to users or teammates.
+
+## Conclusion
+
+The figures related to AI in the literature, and the industries reports, confirm that AI is something that is becoming more and more a feature of software engineering. Most developers already use some kind of AI-powered tool, organizations are starting to utilize AI, and projects involving AI are rapidly increasing. These data highlight the fact that future software engineers will have to know how to work with AI tools.
+
+But the reports also show that AI is limited. Developers have reservations about AI, AI sometimes writes wrong code and excess AI-assisted work can lead to test and maintain issues if not carefully managed.
+
+I think the best approach is not to discard AI or be completely dependent on it. I think the best approach is to use the AI as an assistant but always keep human understanding, testing, critical thinking, accountability in the middle of software engineering. The tools might be changed by AI but the software engineers are still to understand the problem, judge the solutions and to guard the quality of software.
