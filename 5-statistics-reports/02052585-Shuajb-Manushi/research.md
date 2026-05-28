@@ -55,3 +55,23 @@ The page makes clear that developers are not only using AI tools but actually bu
 This also leads to the conclusion that even developers who are not machine learning experts could benefit from knowledge about AI. In the future, a web developer, backend developer or a software engineer might still require the knowledge of utilizing API interfaces to AI models, integrating AI models with software, managing user data, and assessing AI results.
 
 Another interesting thing from the report of GitHub is that open source AI development is expanding all around the world. It indicates that AI development is not only done by the big technology companies. It is also participated by students, independent developers and open-source communities.
+
+## AI Coding Tools in Workplaces
+
+A survey by GitHub about AI coding tools the study revealed that over 97% of enterprise developers who were surveyed at any point used AI coding tools at work. [4]
+
+That‘s important because it demonstrates that AI isn‘t solely being used by students or hobbyist programmers. It‘s starting to find its way into real software development organizations. Programmers employ AI techniques and software to produce code at a faster rate, to analyze existing code, to produce documentation and tests, and to learn frameworks or programming languages.
+
+But on the work place, the use of AI will bring some new responsibilities. The companies need a set of clear policies based on how data is shared with the AI tools. Developers shouldn‘t put their private company code, passwords, customer data or any sensitive data or information into the tools. The use of AI in the companies need to be related to Security, privacy and governance policies.
+
+For software engineers, that means they need more than ability to write code. They need professional responsibility. When the results of code, like bug and security problem, even though they is created by AI, the program company and engineering team also take responsibility for it.
+
+## Company Adoption and Investment
+
+Industry reports also indicate that adoption of AI by corporations is growing. According to McKinsey‘s 2025 State of AI report, 88% of respondents stated that their organizations incorporate AI in at least one of its business functions on a constant basis, as opposed to 78% the year before. [7]
+
+This indicates that AI adoption extends far beyond the field of software engineering. It has been adopted and is in use in the early and middle stages of many fields, including customer service, marketing, operations, finance, IT, and knowledge management. For software engineers, this means that AI will not only change how code is written but also how the business works.
+
+However, as McKinsey points out, “In many organizations, AI remains in experimentation or pilot stages”. Many organizations are leveraging AI today, but their implementations are not yet ingrained into stable and mature workflows that can scale up.
+
+For software engineering, this can be both an opportunity and an uncertainty. Developers may work in teams where tools, processes and expectations change rapidly. They may need to adapt to AI coding assistants, AI documentation tools, AI testing tools and AI-supported project workflows.
