@@ -25,3 +25,33 @@ The basic message I take away from these reports is that AI is expanding rapidly
 | DORA workplace use | DORA reports that 90% of survey respondents uses AI at workplace. | AI supported development has become ubiquitous in tech workplaces. | [9] |
 | Perception of productivity | DORA reports that over 80% believes that AI has increased in productivity. | While many developers believe that AI helps by making them work faster, this still need to be verified. | [9] |
 | DORA delivery warning | DORA reports that strong and weak software delivery practices can both be amplified by AI. | AI is only useful if the teams have the discipline of good testing, review and delivery process. | [9] |
+
+## AI Adoption Among Developers
+
+AI tools are becoming widespread among software developers. In a recent (2025) Stack Overflow Developer Survey, 84% of respondents said that they were using or intending to use AI tools in their development process. The same survey reported that 50.6% of professional developers use AI tools every day. [1]
+
+This shows that AI is no longer a specification tool only used by a handful of people. It is becoming part of everyday software engineering. They use it to generate code samples, explain errors, figure out unfamiliar libraries, write doc, learn advanced stuff.
+
+But, this number can‘t be “AI replaces developers”. It just changed developers’ workflow. Before, a developer would search documentation, read answers on stackoverflow and write every line of code him/herself. Now, that developer may go to an AI assistant to ask an explanation or a first draft. But this developer still needs to check if that answer is correct, secured, fit to that specific project.
+
+For students and juniors, this can matter because the usage of AI tool will probably become a skill. You having the knowledge of how to use AI in a responsible way could become part of the equivalent to knowing how to use Git, documentation, or debugging tools.
+
+## Developer Trust in AI
+
+Despite the fact that AI is used by many developers, reliability remains an obstacle. According to a report by Stack Overflow, there is greater distrust (28%) of the truthfulness of AI tools than trust (23%). In the 2025 survey, it was found that 46% of developers didn‘t trust accuracy of AI tools, compared with only 33% trusting it. [1]
+
+This matters because correctness is the essence of software engineering. An “almost correct” piece of code can blow up. Code produced by AI may look professional, but it may contain a logic flaw, a security flaw, a deprecated API call, or omit an important edge case.
+
+I think this is one of the most significant result. It indicates that developers do not take AI for granted. A number of developers are happy to adopt AI, but recognize that the output of a system has to be checked. This hints that the software engineer‘s job might be more focused on verification, testing and decision.
+
+AI can give you a quick answer a quick answeris not, and should not be, necessarily a correct one. A competent engineer should be constantly asking himself: does this code actually answer the right question? Does it answer the right requirements? Is it safe? Is it easy to maintain? Can it crash?
+
+## GitHub Statistics on AI Projects
+
+From GitHub‘s Octoverse 2024 report, there is a large increase in development for AI. GitHub 2024 reported there were 137,000 public generative AI projects on GitHub with 98% growth per year in the number of generative AI projects on GitHub. There was also a 59% increase in contributions into generative AI projects on GitHub. [3]
+
+The page makes clear that developers are not only using AI tools but actually building AI software. Generative AI is emerging as a major category in software development. We are seeing more and more developers build libraries, tools, apps, models, and integrations.
+
+This also leads to the conclusion that even developers who are not machine learning experts could benefit from knowledge about AI. In the future, a web developer, backend developer or a software engineer might still require the knowledge of utilizing API interfaces to AI models, integrating AI models with software, managing user data, and assessing AI results.
+
+Another interesting thing from the report of GitHub is that open source AI development is expanding all around the world. It indicates that AI development is not only done by the big technology companies. It is also participated by students, independent developers and open-source communities.
