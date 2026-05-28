@@ -22,3 +22,6 @@ The basic message I take away from these reports is that AI is expanding rapidly
 | Organization adoption | McKinsey reported that 88% of organizations use AI in at least one business function. | AI adoption is spreading across companies, not only software teams. | [5] |
 | DORA workplace use | DORA reported that 90% of survey respondents use AI at work. | AI-assisted development is becoming very common in technology workplaces. | [7] |
 | Productivity perception | DORA reported that more than 80% believe AI increased their productivity. | Many developers feel AI helps them work faster, but this still requires verification. | [7] |
+| DORA workplace use | DORA reports that 90% of survey respondents uses AI at workplace. | AI supported development has become ubiquitous in tech workplaces. | [9] |
+| Perception of productivity | DORA reports that over 80% believes that AI has increased in productivity. | While many developers believe that AI helps by making them work faster, this still need to be verified. | [9] |
+| DORA delivery warning | DORA reports that strong and weak software delivery practices can both be amplified by AI. | AI is only useful if the teams have the discipline of good testing, review and delivery process. | [9] |
